@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Stream 1",
+      "description": "Moj prvi stream!",
+      "userId": "103433150577345909080",
+      "id": 1
+    },
+    {
+      "title": "React",
+      "description": "React.js",
+      "userId": "103433150577345909080",
+      "id": 4
+    },
+    {
+      "title": "Java script",
+      "description": "Java script",
+      "userId": "103433150577345909080",
+      "id": 5
+    }
+  ]
+}
